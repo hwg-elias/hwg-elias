@@ -1,4 +1,4 @@
-### Hello there! I am Gabriel Elias, welcome! 👋
+### Hi, I am Gabriel Elias, welcome! 👋
 
 
 <h4>💻 Back-End Developer</h4>
