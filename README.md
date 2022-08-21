@@ -6,7 +6,8 @@
 
 <h4> 📫 How to reach me: </h4>
 <a href = "mailto:hwgelias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/augusto-bernardes-a53b291bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+<a href="https://www.linkedin.com/in/hwg-elias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:hwg.elias@proton.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 <h4>⚙️ Skills</h4>
 
 <div>
