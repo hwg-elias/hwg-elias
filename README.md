@@ -2,7 +2,7 @@
 
 
 <h4>💻 Back-End Developer</h4>
-* Expanding backend knowledge and techniques <br> I'm learning <strong>Typescript, NestJS, PostgreSQL and Clean Code</strong>
+<ul> Expanding backend knowledge and techniques <br> I'm learning <strong>Typescript, NestJS, PostgreSQL and Clean Code</strong> </ul>
 
 <h4> 📫 How to reach me: </h4>
 <a href = "mailto:hwgelias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
