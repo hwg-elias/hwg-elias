@@ -4,7 +4,7 @@
 <h4>💻 Back-End Developer</h4>
 <ul>
   
-  <li>Expanding backend knowledge and techniques <br> I'm learning <strong>Typescript, NestJS, PostgreSQL and Clean Code</strong></li>
+  <li>Expanding backend knowledge and techniques <br> I'm learning <strong>NestJS, PostgreSQL, AWS and Clean Code</strong></li>
   
 </ul>
 
@@ -16,6 +16,7 @@
 
 <div>
   <img  alt="My-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  alt="My-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img  alt="My-Node" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img  alt="My-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img  alt="My-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
