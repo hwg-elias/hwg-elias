@@ -25,7 +25,7 @@
   <img  alt="My-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
-
+< !-- 
 ##
 <div align="center">
   <a href="https://github.com/hwg-elias">
@@ -38,3 +38,4 @@
   ![Snake animation](https://github.com/hwg-elias/hwg-elias/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+-- > 
