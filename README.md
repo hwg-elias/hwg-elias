@@ -25,16 +25,4 @@
   <img  alt="My-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
-< !-- 
-<div align="center">
-  <a href="https://github.com/hwg-elias">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=hwg-elias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwg-elias&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
-<div> 
- 
-  ![Snake animation](https://github.com/hwg-elias/hwg-elias/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
--- > 
