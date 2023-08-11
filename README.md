@@ -4,7 +4,7 @@
 <h4>💻 Back-End Developer</h4>
 <ul>
   
-  <li>Expanding backend knowledge and techniques <br> with: <strong>NestJS, PostgreSQL, AWS and Clean Arquitecture</strong></li>
+  <li>Expanding backend knowledge and techniques <br> with: <strong> AWS and Clean Arquitecture</strong></li>
   
 </ul>
 
