@@ -4,7 +4,7 @@
 <h4>💻 Back-End Developer</h4>
 <ul>
   
-  <li>Expanding backend knowledge and techniques <br> with: <strong> AWS and Clean Arquitecture</strong></li>
+  <li>Expanding backend knowledge and techniques <br> with: <b>AWS</b> and <b>Clean Arquitecture</b></li>
   
 </ul>
 
@@ -28,6 +28,6 @@
 
 <div> 
  
-  ![Snake animation](https://github.com/hwg-elias/hwg-elias/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/hwg-elias/hwg-elias/blob/output/github-contribution-grid-snake.svg")
  
 </div>
